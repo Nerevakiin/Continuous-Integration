@@ -36,6 +36,13 @@
       "when": 1792010456719,
       "tag": "0004_nice_radioactive_man",
       "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "7",
+      "when": 1792010942232,
+      "tag": "0005_orange_jack_power",
+      "breakpoints": true
     }
   ]
 }
