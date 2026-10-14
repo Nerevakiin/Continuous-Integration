@@ -15,6 +15,13 @@
       "when": 1792004453275,
       "tag": "0001_opposite_jasper_sitwell",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1792005802485,
+      "tag": "0002_backfull_email_address",
+      "breakpoints": true
     }
   ]
 }
