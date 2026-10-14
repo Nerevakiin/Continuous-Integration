@@ -57,7 +57,7 @@ jobs:
         env:
           DATABASE_URL: ${{ secrets.DATABASE_URL }}
         run: npm run db:migrate
-        
+
       - name: Build and push Docker image
         uses: docker/build-push-action@v6
         with:
